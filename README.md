@@ -1,2 +1,2 @@
 # trudne-slowa
-Textmining of title in information website
+Textmining of title in polish information website
